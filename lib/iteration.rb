@@ -23,7 +23,7 @@ def find_greater_pair(src)
   # that are in the inner Arrays
   
   array = []
-  
+  row_index = 0 
 end
 
 def total_even_pairs(src)
